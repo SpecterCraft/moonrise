@@ -1,4 +1,4 @@
-![Moonrise logo](docs/media/favicon.ico) 
+
 
 # SpecterCraftweb
 
