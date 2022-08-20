@@ -16,7 +16,7 @@ fetch("https://api.mcsrvstat.us/2/31.41.59.26:5358")
     })
 .then(data => {
     if (data.online == true) {
-        document.getElementById("serverVer").innerHTML = `Minecraft ${data.version} Server`;
+        document.getElementById("serverVer").innerHTML = `Medieval Roleplay Minecraft Sunucusu`;
 
         // siteNav dependent
         
