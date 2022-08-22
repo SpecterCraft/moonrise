@@ -5,7 +5,7 @@ navname: Home
 # Cells at the bottom of the page
 cellLinks:
   - cname: Sunucu Mapi
-    curl: https://google.com
+    curl: https://185.250.241.72:8123
     cimage: media/demo02.jpg
 
   - cname: Sunucudan Görüntüler
