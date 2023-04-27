@@ -4,8 +4,8 @@ navname: Home
 
 # Cells at the bottom of the page
 cellLinks:
-  - cname: Sunucu Mapi
-    curl: http://185.250.241.72:8123
+  - cname: Sunucu Haritası
+    curl: http://193.164.6.53:8123
     cimage: media/demo02.jpg
 
   - cname: Sunucudan Görüntüler
