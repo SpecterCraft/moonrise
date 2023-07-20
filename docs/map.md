@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: http://45.155.124.174:8123
+tourl: http://45.131.3.100:8123
 ---
